@@ -3,7 +3,7 @@
 
 ## 鸣谢
 
-[@ouuan](https://github.com/ouuan) 大佬。本项目所有的源代码均来自于[@ouuan](https://github.com/ouuan) 大佬。本人仅作了适配 FZOJ 的修改。
+[@ouuan](https://github.com/ouuan) 大佬。本项目所有的源代码均来自于[@ouuan](https://github.com/ouuan) 大佬的项目 [LuoguPaintBoard](https://github.com/ouuan/LuoguPaintBoard)。本人仅作了适配 FZOJ 的修改。
 
 cjh、lq、yyx等人。提供了的帮助。（没有他们的Github所以挂不了链接
 
