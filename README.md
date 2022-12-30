@@ -5,7 +5,7 @@
 
 [@ouuan](https://github.com/ouuan) 大佬。本项目所有的源代码均来自于[@ouuan](https://github.com/ouuan) 大佬的项目 [LuoguPaintBoard](https://github.com/ouuan/LuoguPaintBoard)。本人仅作了适配 FZOJ 的修改。
 
-cjh [@ChineseCJH](https://github.com/ChineseCJH) 、lq、yyx等人。提供了的帮助。（没有他们的Github所以挂不了链接
+cjh [@ChineseCJH](https://github.com/ChineseCJH) 、lq [@LQ636721](https://github.com/LQ636721) 、yyx等人。提供了的帮助。（没有他们的Github所以挂不了链接
 
 **特别的**，感谢 YYX 大佬提供了此次 FZOJ冬日绘板机会。
 
