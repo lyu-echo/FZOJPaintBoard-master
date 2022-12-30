@@ -7,15 +7,15 @@
 
 cjh [@ChineseCJH](https://github.com/ChineseCJH) 、lq [@LQ636721](https://github.com/LQ636721) 、yyx [@juruoyyx](https://github.com/juruoyyx)等人。提供了的帮助。
 
-**特别的**，感谢 YYX 大佬提供了此次 FZOJ冬日绘板机会。
+**特别的**，感谢 YYX 大佬提供了此次 FZOJ 冬日绘板机会。
 
 ## 前置准备
 
 本项目需要如下环境：
 
-- Python3.7 及以上版本
+- [Python3.7](https://www.python.org/downloads/) 及以上版本
 - [GIMP](https://www.gimp.org/downloads/)
-- Python Pillow库和Requests库
+- Python Pillow 库和 Requests 库
 
 对于 Python 和 pip ：需要添加到环境变量（path）。
 
@@ -102,8 +102,3 @@ cjh [@ChineseCJH](https://github.com/ChineseCJH) 、lq [@LQ636721](https://githu
 - 本项目所有代码均默认是培养于 FZQOJ。在 `paint.py` 中，可以根据注释改为适配于 FZUOJ 。
 - 多个账号，需要使用多个浏览器获取 cookies。
 - 不要过于频繁请求 FZOJ。
-
-
-
-
-
