@@ -5,7 +5,7 @@
 
 [@ouuan](https://github.com/ouuan) 大佬。本项目所有的源代码均来自于[@ouuan](https://github.com/ouuan) 大佬的项目 [LuoguPaintBoard](https://github.com/ouuan/LuoguPaintBoard)。本人仅作了适配 FZOJ 的修改。
 
-cjh [@ChineseCJH](https://github.com/ChineseCJH) 、lq [@LQ636721](https://github.com/LQ636721) 、yyx [@juruoyyx](https://github.com/juruoyyx)等人。提供了的帮助。
+cjh [@ChineseCJH](https://github.com/ChineseCJH) 、lq [@LQ636721](https://github.com/LQ636721) 、yyx [@juruoyyx](https://github.com/juruoyyx) 等人。提供了的帮助。
 
 **特别的**，感谢 YYX 大佬提供了此次 FZOJ 冬日绘板机会。
 
@@ -56,7 +56,6 @@ cjh [@ChineseCJH](https://github.com/ChineseCJH) 、lq [@LQ636721](https://githu
 	"UOJSESSID=XXXXXX;connect.sid=XXXXXX; …………",
 	"UOJSESSID=XXXXXX;connect.sid=XXXXXX; …………"
 ]	
-
 ```
 
 
@@ -93,12 +92,12 @@ cjh [@ChineseCJH](https://github.com/ChineseCJH) 、lq [@LQ636721](https://githu
 - `PAINTBOARDURL`：绘板地址。
 - `UA`：header 中使用的 User Agent。
 
-在本项目中已对 FZOJPaintBoard 进行适配，不建议也没必要更改。
+在本项目中已对 FZOJPaintBoard 进行适配，除 `UA` 外不建议也没必要更改。
 
 
 
 ## 注意事项
 
-- 本项目所有代码均默认是培养于 FZQOJ。在 `paint.py` 中，可以根据注释改为适配于 FZUOJ 。
+- 本项目所有代码均默认适配于 FZQOJ。在 `paint.py` 中，可以根据注释改为适配于 FZUOJ 。
 - 多个账号，需要使用多个浏览器获取 cookies。
 - 不要过于频繁请求 FZOJ。
